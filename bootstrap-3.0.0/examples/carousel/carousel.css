@@ -19,8 +19,14 @@ body {
 }
 
 /*Catia */
-.navbar-color {
-  background-color: #007eff
+.navbar-inner {
+  background-image: -moz-linear-gradient(top, #5bc0de, #46b8da);
+  background-image: -ms-linear-gradient(top, #5bc0de, #46b8da);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#5bc0de), to(#46b8da));
+  background-image: -webkit-linear-gradient(top, #5bc0de, #46b8da);
+  background-image: -o-linear-gradient(top, #5bc0de, #46b8da);
+  background-image: linear-gradient(top, #5bc0de, #46b8da);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#'5bc0de, endColorstr='#'46b8da, GradientType=0);
 }
 
 
