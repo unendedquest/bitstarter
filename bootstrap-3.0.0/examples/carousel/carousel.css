@@ -33,6 +33,10 @@ body {
   color: #ffffff;
 }
 
+.navbar .nav > li > a {
+  color: #ffffff;
+}
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
