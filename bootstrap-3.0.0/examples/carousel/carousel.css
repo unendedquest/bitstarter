@@ -30,8 +30,7 @@ body {
 }
 
 .navbar-color {
-  color: #ffffff;
-  !important;
+  color: #ffffff !important;
 }
 
 .navbar .nav > li > a {
