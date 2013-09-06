@@ -18,6 +18,10 @@ body {
   z-index: 15;
 }
 
+.navbar-color {
+ color:  #3369e8; 
+}
+
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
