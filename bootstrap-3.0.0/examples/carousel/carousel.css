@@ -18,8 +18,9 @@ body {
   z-index: 15;
 }
 
+/*Catia */
 .navbar-color {
- color:  #3369e8; 
+ background-color:  #3369e8; 
 }
 
 
