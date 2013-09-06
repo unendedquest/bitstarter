@@ -29,6 +29,31 @@ body {
   background-image: linear-gradient(top, #5bc0de, #46b8da);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#'5bc0de, endColorstr='#'46b8da, GradientType=0);
 }
+
+.navbar .brand {
+  padding: 8px 20px 12px;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.navbar .divider-vertical {
+  height: 41px;
+  background-color: #46b8da;
+  border-right: 1px solid #46b8da;
+}
+
+.navbar .nav > li > a {
+  padding: 10px 10px 11px;
+  font-size: 14px;
+  color: #ffffff;
+}
+
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus {
+  color: #ffffff;
+}
+
 .navbar .divider-vertical {
   height: 41px;
   background-color: #46b8da;
