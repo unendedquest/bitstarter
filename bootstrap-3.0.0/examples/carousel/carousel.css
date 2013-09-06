@@ -47,7 +47,9 @@ body {
   height: 500px;
 }
 
-
+img {
+     max-width: 100%;
+}
 
 
 
